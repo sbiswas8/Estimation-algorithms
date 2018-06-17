@@ -11,7 +11,7 @@ Extrapolated Single Propagation Particle Filter (ESP-PF)
 These new algorithms use the Single Propagation Technique to significantly reduce the processing time of the UKF and the Particle Filter.
 
 # Instruction:
-To use EKF, UKF, PF, SPUKF, ESPUKF and ESPPF functions, add Estimation-algorithms folder in Set Path.
+To use EKF, UKF, particle_filter, SPUKF, ESPUKF and ESPPF functions, add Estimation-algorithms folder in Set Path.
 
 Further details about the functions can be found using help command, for example: execute help EKF to see details about the EKF function
 
