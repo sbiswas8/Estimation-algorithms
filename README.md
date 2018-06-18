@@ -19,3 +19,6 @@ Further details about the functions can be found using help command, for example
 1. S. K. Biswas, L. Qiao and A. G. Dempster, "A Novel a Priori State Computation Strategy for the Unscented Kalman Filter to Improve Computational Efficiency," in IEEE Transactions on Automatic Control, vol. 62, no. 4, pp. 1852-1864, April 2017. doi: 10.1109/TAC.2016.2599291 
 
 2. S. K. Biswas and A. G. Dempster, "A Computationally Efficient Particle Filtering Approach", submitted to IEEE Transactions on Signal Processing, 2018
+
+# Citing the SPUKF and ESPUKF:
+S. K. Biswas, L. Qiao and A. G. Dempster, "A Novel a Priori State Computation Strategy for the Unscented Kalman Filter to Improve Computational Efficiency," in IEEE Transactions on Automatic Control, vol. 62, no. 4, pp. 1852-1864, April 2017. doi: 10.1109/TAC.2016.2599291 
