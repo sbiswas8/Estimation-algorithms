@@ -1,6 +1,6 @@
 # Estimation-algorithms
 Estimation-algorithms includes MATLAB functions for the EKF, UKF, Particle Filter, and their computationally efficient variants.
-# Whats new:
+# What's new:
 Two newly developed UKFs: 
 1. Single Propagation Unscented Kalman Filter (SPUKF)
 2. Extrapolated Single Propagation Unscented Kalman Filter (ESPUKF) 
