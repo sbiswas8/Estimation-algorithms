@@ -22,3 +22,7 @@ Further details about the functions can be found using help command, for example
 
 # Citing the SPUKF and ESPUKF:
 S. K. Biswas, L. Qiao and A. G. Dempster, "A Novel a Priori State Computation Strategy for the Unscented Kalman Filter to Improve Computational Efficiency," in IEEE Transactions on Automatic Control, vol. 62, no. 4, pp. 1852-1864, April 2017. doi: 10.1109/TAC.2016.2599291 
+
+# Citing the ESP-PF:
+S. K. Biswas and A. G. Dempster, “Approximating Sample State Vectors using the ESPT for Computationally Efﬁcient Particle Filtering,” (in press) IEEE Transactions on Signal Processing, p. 11, 2019.
+
