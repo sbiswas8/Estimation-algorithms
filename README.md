@@ -18,11 +18,11 @@ Further details about the functions can be found using help command, for example
 # References:
 1. S. K. Biswas, L. Qiao and A. G. Dempster, "A Novel a Priori State Computation Strategy for the Unscented Kalman Filter to Improve Computational Efficiency," in IEEE Transactions on Automatic Control, vol. 62, no. 4, pp. 1852-1864, April 2017. doi: 10.1109/TAC.2016.2599291 
 
-2. S. K. Biswas and A. G. Dempster, "A Computationally Efficient Particle Filtering Approach", submitted to IEEE Transactions on Signal Processing, 2018
+2. S. K. Biswas and A. G. Dempster, “Approximating Sample State Vectors Using the ESPT for Computationally Efficient Particle Filtering,” IEEE Transactions on Signal Processing, vol. 67, no. 7, pp. 1918–1928, Apr. 2019.
 
 # Citing the SPUKF and ESPUKF:
 S. K. Biswas, L. Qiao and A. G. Dempster, "A Novel a Priori State Computation Strategy for the Unscented Kalman Filter to Improve Computational Efficiency," in IEEE Transactions on Automatic Control, vol. 62, no. 4, pp. 1852-1864, April 2017. doi: 10.1109/TAC.2016.2599291 
 
 # Citing the ESP-PF:
-S. K. Biswas and A. G. Dempster, “Approximating Sample State Vectors using the ESPT for Computationally Efﬁcient Particle Filtering,” (in press) IEEE Transactions on Signal Processing, p. 11, 2019.
+S. K. Biswas and A. G. Dempster, “Approximating Sample State Vectors Using the ESPT for Computationally Efficient Particle Filtering,” IEEE Transactions on Signal Processing, vol. 67, no. 7, pp. 1918–1928, Apr. 2019.
 
