@@ -1,0 +1,26 @@
+diff a/PFscript/CalcWeights.m b/PFscript/CalcWeights.m	(rejected hunks)
+@@ -1,23 +1,8 @@
+ function [weights, N_eff] = CalcWeights(wt,Pxx,particles,msmt,mdynamics,Pzxmodel,Ns)
+-%global Qk
+ weights = zeros(1,Ns);
+-n = length(particles(:,1));
+-Pxx_ = zeros(n,n);
+-
+-% for i = 1:Ns
+-%     X = particles(:,i);
+-%     X_ = X_ + wt(i)*X;
+-% end
+-
+-X_ = mean(particles,2);
+ for i = 1:Ns
+     X = particles(:,i);
+-    Pxx_ = Pxx_ + (X-X_)*(X-X_)';
+-end
+-Pxx_ = Pxx_/Ns;
+-for i = 1:Ns
+-    X = particles(:,i);
+-    Pzx = Pzxmodel(msmt,X,Pxx_,mdynamics);
++    Pzx = Pzxmodel(msmt,X,Pxx,mdynamics);
+     weights(i) = wt(i)*Pzx;
+ end
+ Swt = sum(weights);
