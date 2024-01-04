@@ -20,6 +20,8 @@ Further details about the functions can be found using help command, for example
 
 2. S. K. Biswas and A. G. Dempster, “Approximating Sample State Vectors Using the ESPT for Computationally Efficient Particle Filtering,” IEEE Transactions on Signal Processing, vol. 67, no. 7, pp. 1918–1928, Apr. 2019.
 
+3. S. K. Biswas, L. Qiao, and A. G. Dempster, “A quantified approach of predicting suitability of using the Unscented Kalman Filter in a non-linear application,” Automatica, vol. 122, p. 109241, Dec. 2020, doi: 10.1016/j.automatica.2020.109241.
+
 # Citing the SPUKF and ESPUKF:
 S. K. Biswas, L. Qiao and A. G. Dempster, "A Novel a Priori State Computation Strategy for the Unscented Kalman Filter to Improve Computational Efficiency," in IEEE Transactions on Automatic Control, vol. 62, no. 4, pp. 1852-1864, April 2017. doi: 10.1109/TAC.2016.2599291 
 
